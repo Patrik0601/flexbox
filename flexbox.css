@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+#zold{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+}
+#sarga{
+    background-color: yellow;
+    height: 300px;
+    width: 100%;
+}
+#lila{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+
+#zold2{
+    background-color: green;
+}
+#sarga2{
+    background-color: yellow;
+}
+#lila2{
+    background-color: purple;
+}
